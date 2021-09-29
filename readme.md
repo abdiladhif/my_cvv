@@ -22,5 +22,5 @@ This is about my CV and you can find out my complete information, so if you want
 
 
 Name|                      Email|                    Adress|
-|--------------------------|------------------------|--------------------------------------------------------| 
-|abdiladif Moa'lim moahamud|abdiladhif101@gmail.com Towfiiq,30KA STREET, YAAQSHIID DISTRICT,MOGADISHU-SOMALIA|
+|------------------------------|------------------------|--------------------------------------------------------|
+|abdiladif Moa'lim moahamud|abdiladhif101@gmail.com |Towfiiq,30KA STREET, YAAQSHIID DISTRICT,MOGADISHU-SOMALIA|
